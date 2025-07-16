@@ -4,8 +4,11 @@
 
 The **MedSynora Data Warehouse (DW)** is designed to integrate and centralize healthcare data from various structured sources. It supports efficient medical analytics and reporting by adopting best practices in **dimensional modeling**, **ETL development**, and **business intelligence visualization**.
 
+---
+
 > 📊 *Dataset Source:*
 > [Medsynora DW on Kaggle](https://www.kaggle.com/datasets/mebrar21/medsynora-dw)
+
 
 ![MedSynora Power BI Dashboard](https://github.com/Ilmaa2003/MedSynora/blob/main/Extra/Images/Screenshot%202025-07-16%20063954.png)
 
@@ -14,8 +17,6 @@ The **MedSynora Data Warehouse (DW)** is designed to integrate and centralize he
 ![MedSynora Power BI Dashboard 3](https://github.com/Ilmaa2003/MedSynora/blob/main/Extra/Images/Screenshot%202025-07-16%20064024.png)  
 
 ![MedSynora Power BI Dashboard 4](https://github.com/Ilmaa2003/MedSynora/blob/main/Extra/Images/Screenshot%202025-07-16%20064034.png)  
-*Comprehensive patient condition and treatment analytics dashboard.*
-
 
 ---
 
